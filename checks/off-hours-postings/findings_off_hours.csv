@@ -1,0 +1,9 @@
+invoice_no,vendor,amount,posted_by,posted_at,reason
+VIT-1035,Vestergaard IT A/S,6416.91,jonas.h,2026-05-23 12:39:00,weekend
+CD-1035,CloudDane Hosting,4200.0,mette.j,2026-03-14 23:40:00,weekend + after-hours
+VIT-1037,Vestergaard IT A/S,9920.0,jonas.h,2026-04-11 10:30:00,weekend
+CD-1036,CloudDane Hosting,3100.0,sofie.k,2026-03-15 02:15:00,weekend + after-hours
+NS-1035,Nordic Supplies ApS,2754.45,mette.j,2026-02-01 09:24:00,weekend
+VIT-1039,Vestergaard IT A/S,9990.0,jonas.h,2026-04-19 10:30:00,weekend
+FC-1035,Fyn Catering ApS,1850.0,sofie.k,2026-05-02 22:30:00,weekend + after-hours
+BB-1036,Bruun & Berg Advokater,22000.0,jonas.h,2026-02-08 23:05:00,weekend + after-hours
