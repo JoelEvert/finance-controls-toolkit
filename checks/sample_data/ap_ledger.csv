@@ -1,0 +1,383 @@
+invoice_no,invoice_date,vendor,amount,currency,posted_by,posted_at
+CD-1003,2026-03-18,CloudDane Hosting,5683.53,DKK,jonas.h,2026-03-18 08:53
+BB-1012,2026-05-05,Bruun & Berg Advokater,23373.14,DKK,jonas.h,2026-05-05 15:15
+BB-1002,2026-05-08,Bruun & Berg Advokater,20202.74,DKK,jonas.h,2026-05-08 12:42
+ME-1036,2026-01-08,Moeller Ejendomme A/S,27235.63,DKK,jonas.h,2026-01-08 10:31
+LL-1001,2026-03-13,Lyngby Logistik A/S,10206.46,DKK,lars.p,2026-03-13 16:31
+AM-1041,2026-05-14,Aarhus Marketing Group,8691.70,DKK,mette.j,2026-05-14 12:54
+NS-1022,2026-04-20,Nordic Supplies ApS,11985.15,DKK,jonas.h,2026-04-20 09:24
+KC-1028,2026-03-05,Kastrup Consulting,32190.74,DKK,mette.j,2026-03-05 10:41
+CD-1029,2026-06-03,CloudDane Hosting,7351.42,DKK,lars.p,2026-06-03 08:17
+ME-1002,2026-01-09,Møller Ejendomme A/S,41803.61,DKK,jonas.h,2026-01-09 08:30
+ME-1032,2026-05-25,Møller Ejendomme A/S,37705.55,DKK,jonas.h,2026-05-25 13:04
+BB-1034,2026-03-31,Bruun & Berg Advokater,10732.89,DKK,jonas.h,2026-03-31 12:40
+LL-1013,2026-04-30,Lyngby Logistik A/S,2319.83,DKK,sofie.k,2026-04-30 10:03
+AM-1007,2026-01-22,Aarhus Marketing Group,8187.12,DKK,mette.j,2026-01-22 13:14
+KC-1025,2026-03-03,Kastrup Consulting,10136.30,DKK,lars.p,2026-03-03 12:14
+VIT-1035,2026-05-23,Vestergaard IT A/S,6416.91,DKK,jonas.h,2026-05-23 12:39
+AM-1043,2026-06-15,Aarhus Marketing Group,9228.24,DKK,lars.p,2026-06-15 10:37
+ME-1010,2026-01-26,Møller Ejendomme A/S,32753.02,DKK,sofie.k,2026-01-26 13:27
+BB-1035,2026-04-13,Bruun & Berg Advokater,10921.83,DKK,lars.p,2026-04-13 11:31
+LL-1033,2026-03-26,Lyngby Logistik A/S,6336.23,DKK,lars.p,2026-03-26 10:31
+VIT-1017,2026-01-16,Vestergaard IT A/S,22943.32,DKK,jonas.h,2026-01-16 08:37
+NS-1007,2026-03-31,Nordic Supplies ApS,5705.20,DKK,mette.j,2026-03-31 12:51
+AM-1045,2026-01-09,Aarhus Marketing Group,9649.65,DKK,sofie.k,2026-01-09 09:02
+CD-1031,2026-01-08,CloudDane Hosting,2057.43,DKK,sofie.k,2026-01-08 10:00
+AM-1034,2026-01-12,Aarhus Marketing Group,10734.03,DKK,jonas.h,2026-01-12 13:39
+NS-1004,2026-06-17,Nordic Supplies ApS,8638.05,DKK,lars.p,2026-06-17 16:26
+CD-1027,2026-02-03,CloudDane Hosting,3099.84,DKK,lars.p,2026-02-03 11:04
+ME-1017,2026-01-29,Møller Ejendomme A/S,42299.24,DKK,sofie.k,2026-01-29 13:54
+CD-1015,2026-06-23,CloudDane Hosting,4747.33,DKK,jonas.h,2026-06-23 12:37
+KC-1033,2026-05-11,Kastrup Consulting,38695.88,DKK,jonas.h,2026-05-11 14:53
+FC-1025,2026-04-20,Fyn Catering ApS,4017.74,DKK,mette.j,2026-04-20 16:23
+NS-1029,2026-05-07,Nordic Supplies ApS,9184.70,DKK,sofie.k,2026-05-07 08:07
+NS-1006,2026-01-28,Nordic Supplies ApS,2754.45,DKK,mette.j,2026-01-28 09:24
+FC-1002,2026-06-09,Fyn Catering ApS,5810.72,DKK,sofie.k,2026-06-09 15:53
+ME-1030,2026-02-25,Møller Ejendomme A/S,29152.52,DKK,sofie.k,2026-02-25 10:48
+CD-1035,2026-03-14,CloudDane Hosting,4200.00,DKK,mette.j,2026-03-14 23:40
+LL-1017,2026-04-01,Lyngby Logistik A/S,11998.97,DKK,mette.j,2026-04-01 11:41
+AM-1016,2026-02-18,Aarhus Marketing Group,8292.41,DKK,sofie.k,2026-02-18 09:33
+FC-1001,2026-03-17,Fyn Catering ApS,4373.19,DKK,mette.j,2026-03-17 09:25
+VIT-1015,2026-04-28,Vestergaard IT A/S,9425.69,DKK,jonas.h,2026-04-28 12:27
+ME-1023,2026-04-28,Møller Ejendomme A/S,31919.19,DKK,sofie.k,2026-04-28 13:10
+CD-1019,2026-01-13,CloudDane Hosting,2110.07,DKK,jonas.h,2026-01-13 08:19
+LL-1031,2026-04-27,Lyngby Logistik A/S,10104.19,DKK,jonas.h,2026-04-27 11:48
+OK-1017,2026-03-20,Ørsted Kontorartikler,3272.90,DKK,mette.j,2026-03-20 09:15
+FC-1011,2026-06-02,Fyn Catering ApS,4859.45,DKK,mette.j,2026-06-02 08:22
+VIT-1033,2026-03-10,Vestergaard IT A/S,19839.17,DKK,jonas.h,2026-03-10 10:47
+LL-1008,2026-05-19,Lyngby Logistik A/S,10358.62,DKK,lars.p,2026-05-19 16:51
+VIT-1006,2026-02-19,Vestergaard IT A/S,24609.92,DKK,jonas.h,2026-02-19 09:06
+AM-1031,2026-01-22,Aarhus Marketing Group,18995.79,DKK,lars.p,2026-01-22 14:38
+NS-1019,2026-05-25,Nordic Supplies ApS,2524.64,DKK,jonas.h,2026-05-25 16:16
+OK-1034,2026-04-23,Ørsted Kontorartikler,848.73,DKK,jonas.h,2026-04-23 15:05
+LL-1014,2026-02-25,Lyngby Logistik A/S,5045.96,DKK,sofie.k,2026-02-25 15:20
+BB-1024,2026-03-27,Bruun & Berg Advokater,32043.96,DKK,sofie.k,2026-03-27 16:24
+KC-1012,2026-05-19,Kastrup Consulting,42373.50,DKK,mette.j,2026-05-19 13:01
+LL-1032,2026-06-22,Lyngby Logistik A/S,7182.32,DKK,mette.j,2026-06-22 14:21
+OK-1030,2026-06-04,Ørsted Kontorartikler,1835.37,DKK,jonas.h,2026-06-04 08:56
+ME-1028,2026-06-24,Møller Ejendomme A/S,33906.80,DKK,sofie.k,2026-06-24 15:33
+OK-1001,2026-05-14,Ørsted Kontorartikler,2289.80,DKK,lars.p,2026-05-14 11:05
+CD-1032,2026-03-03,CloudDane Hosting,7361.88,DKK,lars.p,2026-03-03 13:01
+OK-1022,2026-02-11,Ørsted Kontorartikler,2275.17,DKK,jonas.h,2026-02-11 08:26
+BB-1017,2026-03-25,Bruun & Berg Advokater,24847.75,DKK,lars.p,2026-03-25 11:44
+FC-1032,2026-03-02,Fyn Catering ApS,4613.39,DKK,sofie.k,2026-03-02 16:15
+NS-1030,2026-03-04,Nordic Supplies ApS,13241.47,DKK,mette.j,2026-03-04 08:15
+CD-1010,2026-03-12,CloudDane Hosting,5340.65,DKK,jonas.h,2026-03-12 10:16
+NS-1008,2026-05-19,Nordic Supplies ApS,11081.11,DKK,jonas.h,2026-05-19 09:59
+BB-1005,2026-01-02,Bruun & Berg Advokater,40001.69,DKK,jonas.h,2026-01-02 16:29
+VIT-1037,2026-04-11,Vestergaard IT A/S,9920.00,DKK,jonas.h,2026-04-11 10:30
+FC-1028,2026-01-27,Fyn Catering ApS,5128.80,DKK,mette.j,2026-01-27 16:49
+KC-1031,2026-02-02,Kastrup Consulting,35657.32,DKK,jonas.h,2026-02-02 15:08
+VIT-1005,2026-05-28,Vestergaard IT A/S,22253.87,DKK,jonas.h,2026-05-28 15:15
+BB-1023,2026-03-10,Bruun & Berg Advokater,36916.44,DKK,jonas.h,2026-03-10 13:39
+KC-1039,2026-05-22,Kastrup Consulting,25000.00,DKK,sofie.k,2026-05-22 16:18
+OK-1029,2026-03-20,Ørsted Kontorartikler,1954.49,DKK,jonas.h,2026-03-20 14:17
+NS-1031,2026-05-06,Nordic Supplies ApS,1741.98,DKK,lars.p,2026-05-06 09:48
+FC-1007,2026-06-05,Fyn Catering ApS,1723.11,DKK,mette.j,2026-06-05 10:48
+NS-1034,2026-06-22,Nordic Supplies ApS,6285.39,DKK,jonas.h,2026-06-22 13:28
+NS-1001,2026-01-08,Nordic Supplies ApS,9771.69,DKK,lars.p,2026-01-08 12:15
+BB-1026,2026-06-26,Bruun & Berg Advokater,16686.50,DKK,mette.j,2026-06-26 12:14
+KC-1018,2026-02-02,Kastrup Consulting,41486.31,DKK,sofie.k,2026-02-02 12:32
+OK-1033,2026-05-14,Ørsted Kontorartikler,2368.55,DKK,sofie.k,2026-05-14 15:58
+LL-1016,2026-01-22,Lyngby Logistik A/S,3625.44,DKK,mette.j,2026-01-22 15:01
+AM-1024,2026-01-13,Aarhus Marketing Group,3813.64,DKK,mette.j,2026-01-13 11:56
+FC-1022,2026-04-01,Fyn Catering ApS,3663.34,DKK,jonas.h,2026-04-01 12:41
+FC-1020,2026-06-24,Fyn Catering ApS,929.23,DKK,sofie.k,2026-06-24 14:18
+VIT-1038,2026-04-15,Vestergaard IT A/S,9760.00,DKK,jonas.h,2026-04-15 10:30
+VIT-1008,2026-06-16,Vestergaard IT A/S,20854.21,DKK,jonas.h,2026-06-16 09:03
+ME-1034,2026-03-23,Møller Ejendomme A/S,52083.01,DKK,jonas.h,2026-03-23 14:36
+BB-1009,2026-03-04,Bruun & Berg Advokater,44006.43,DKK,mette.j,2026-03-04 10:19
+AM-1009,2026-03-16,Aarhus Marketing Group,6027.19,DKK,lars.p,2026-03-16 15:44
+BB-1033,2026-05-01,Bruun & Berg Advokater,41259.62,DKK,lars.p,2026-05-01 12:43
+KC-1011,2026-01-19,Kastrup Consulting,20323.17,DKK,jonas.h,2026-01-19 12:22
+OK-1009,2026-03-13,Ørsted Kontorartikler,2993.63,DKK,sofie.k,2026-03-13 16:38
+LL-1011,2026-02-03,Lyngby Logistik A/S,10213.66,DKK,jonas.h,2026-02-03 16:01
+KC-1019,2026-03-26,Kastrup Consulting,41679.11,DKK,sofie.k,2026-03-26 14:44
+CD-1036,2026-03-15,CloudDane Hosting,3100.00,DKK,sofie.k,2026-03-15 02:15
+AM-1023,2026-02-05,Aarhus Marketing Group,16898.19,DKK,jonas.h,2026-02-05 09:45
+VIT-1010,2026-02-06,Vestergaard IT A/S,17016.00,DKK,sofie.k,2026-02-06 14:11
+KC-1027,2026-06-12,Kastrup Consulting,30047.89,DKK,jonas.h,2026-06-12 11:45
+OK-1020,2026-01-27,Ørsted Kontorartikler,2497.08,DKK,lars.p,2026-01-27 11:40
+FC-1033,2026-02-20,Fyn Catering ApS,5807.34,DKK,jonas.h,2026-02-20 13:43
+KC-1024,2026-06-19,Kastrup Consulting,48655.45,DKK,sofie.k,2026-06-19 09:18
+NS-1033,2026-05-20,Nordic Supplies ApS,14483.26,DKK,sofie.k,2026-05-20 11:45
+LL-1021,2026-02-13,Lyngby Logistik A/S,9389.26,DKK,lars.p,2026-02-13 09:49
+OK-1023,2026-03-17,Ørsted Kontorartikler,2804.08,DKK,sofie.k,2026-03-17 08:14
+KC-1026,2026-01-13,Kastrup Consulting,13104.47,DKK,mette.j,2026-01-13 11:30
+BB-1015,2026-03-19,Bruun & Berg Advokater,38360.33,DKK,lars.p,2026-03-19 15:55
+AM-1021,2026-04-02,Aarhus Marketing Group,5935.01,DKK,lars.p,2026-04-02 16:21
+NS-1015,2026-02-27,Nordic Supplies ApS,4414.24,DKK,mette.j,2026-02-27 13:53
+LL-1002,2026-01-21,Lyngby Logistik A/S,3875.49,DKK,sofie.k,2026-01-21 12:15
+KC-1036,2026-02-02,Kastrup Consulting,10000.00,DKK,mette.j,2026-02-02 10:54
+VIT-1001,2026-01-07,Vestergaard IT A/S,5388.12,DKK,lars.p,2026-01-07 16:14
+OK-1019,2026-03-19,Ørsted Kontorartikler,1884.48,DKK,mette.j,2026-03-19 14:19
+VIT-1031,2026-01-15,Vestergaard IT A/S,16151.45,DKK,jonas.h,2026-01-15 09:40
+LL-1010,2026-06-22,Lyngby Logistik A/S,5155.20,DKK,lars.p,2026-06-22 14:46
+NS-1018,2026-06-15,Nordic Supplies ApS,6236.66,DKK,sofie.k,2026-06-15 15:09
+BB-1013,2026-04-10,Bruun & Berg Advokater,28396.81,DKK,lars.p,2026-04-10 11:58
+CD-1012,2026-01-21,CloudDane Hosting,4852.98,DKK,lars.p,2026-01-21 10:48
+CD-1016,2026-04-07,CloudDane Hosting,7614.85,DKK,lars.p,2026-04-07 09:43
+KC-1038,2026-06-25,Kastrup Consulting,20000.00,DKK,sofie.k,2026-06-25 13:42
+ME-1037,2026-03-10,Moeller Ejendomme A/S,51801.07,DKK,jonas.h,2026-03-10 12:45
+VIT-1025,2026-02-25,Vestergaard IT A/S,4051.30,DKK,lars.p,2026-02-25 16:16
+VIT-1003,2026-03-27,Vestergaard IT A/S,27351.76,DKK,lars.p,2026-03-27 09:32
+VIT-1009,2026-01-29,Vestergaard IT A/S,22389.98,DKK,lars.p,2026-01-29 11:12
+LL-1020,2026-05-26,Lyngby Logistik A/S,6103.88,DKK,sofie.k,2026-05-26 11:29
+OK-1027,2026-01-20,Ørsted Kontorartikler,3332.53,DKK,sofie.k,2026-01-20 08:10
+AM-1001,2026-06-05,Aarhus Marketing Group,24257.90,DKK,sofie.k,2026-06-05 10:55
+AM-1048,2026-06-26,Aarhus Marketing Group,8965.41,DKK,jonas.h,2026-06-26 14:19
+CD-1007,2026-06-11,CloudDane Hosting,6100.34,DKK,jonas.h,2026-06-11 08:19
+NS-1003,2026-02-26,Nordic Supplies ApS,960.85,DKK,mette.j,2026-02-26 11:32
+AM-1038,2026-06-01,Aarhus Marketing Group,9755.04,DKK,lars.p,2026-06-01 10:49
+BB-1029,2026-04-07,Bruun & Berg Advokater,18854.61,DKK,lars.p,2026-04-07 14:09
+VIT-1014,2026-02-13,Vestergaard IT A/S,27268.40,DKK,jonas.h,2026-02-13 14:00
+AM-1049,2026-02-11,Aarhus Marketing Group,8145.87,DKK,jonas.h,2026-02-11 15:26
+AM-1006,2026-01-15,Aarhus Marketing Group,23470.38,DKK,sofie.k,2026-01-15 14:32
+OK-1006,2026-05-22,Ørsted Kontorartikler,1788.19,DKK,jonas.h,2026-05-22 13:22
+VIT-1012,2026-05-20,Vestergaard IT A/S,3416.47,DKK,lars.p,2026-05-20 08:05
+LL-1007,2026-04-02,Lyngby Logistik A/S,6142.17,DKK,jonas.h,2026-04-02 12:48
+AM-1017,2026-05-21,Aarhus Marketing Group,4488.95,DKK,mette.j,2026-05-21 16:50
+FC-1016,2026-03-30,Fyn Catering ApS,4941.41,DKK,lars.p,2026-03-30 09:32
+CD-1028,2026-03-02,CloudDane Hosting,5773.79,DKK,lars.p,2026-03-02 13:49
+AM-1018,2026-01-13,Aarhus Marketing Group,11589.98,DKK,sofie.k,2026-01-13 14:23
+NS-1023,2026-05-01,Nordic Supplies ApS,9140.38,DKK,mette.j,2026-05-01 16:16
+AM-1022,2026-06-26,Aarhus Marketing Group,21268.44,DKK,jonas.h,2026-06-26 15:44
+OK-1013,2026-05-07,Ørsted Kontorartikler,2605.80,DKK,mette.j,2026-05-07 09:55
+KC-1015,2026-05-12,Kastrup Consulting,29001.66,DKK,lars.p,2026-05-12 09:24
+BB-1016,2026-05-05,Bruun & Berg Advokater,24522.25,DKK,jonas.h,2026-05-05 13:21
+NS-1035,2026-02-01,Nordic Supplies ApS,2754.45,DKK,mette.j,2026-02-01 09:24
+CD-1002,2026-01-29,CloudDane Hosting,7856.02,DKK,sofie.k,2026-01-29 11:24
+LL-1023,2026-04-08,Lyngby Logistik A/S,7248.92,DKK,lars.p,2026-04-08 14:45
+LL-1003,2026-05-20,Lyngby Logistik A/S,4561.49,DKK,lars.p,2026-05-20 09:08
+VIT-1007,2026-04-17,Vestergaard IT A/S,11920.33,DKK,mette.j,2026-04-17 15:55
+OK-1008,2026-05-19,Ørsted Kontorartikler,1364.86,DKK,lars.p,2026-05-19 10:12
+NS-1002,2026-01-28,Nordic Supplies ApS,2523.30,DKK,jonas.h,2026-01-28 16:05
+ME-1014,2026-05-25,Møller Ejendomme A/S,39699.21,DKK,mette.j,2026-05-25 16:21
+OK-1026,2026-06-16,Ørsted Kontorartikler,2246.57,DKK,sofie.k,2026-06-16 10:58
+ME-1013,2026-04-07,Møller Ejendomme A/S,45549.79,DKK,mette.j,2026-04-07 10:35
+KC-1017,2026-01-19,Kastrup Consulting,25032.18,DKK,sofie.k,2026-01-19 13:39
+ME-1018,2026-05-28,Møller Ejendomme A/S,22250.76,DKK,jonas.h,2026-05-28 11:51
+KC-1035,2026-02-25,Kastrup Consulting,5000.00,DKK,jonas.h,2026-02-25 12:44
+FC-1005,2026-01-21,Fyn Catering ApS,1640.80,DKK,mette.j,2026-01-21 16:40
+VIT-1026,2026-01-19,Vestergaard IT A/S,28131.26,DKK,sofie.k,2026-01-19 11:23
+CD-1008,2026-02-04,CloudDane Hosting,1460.24,DKK,sofie.k,2026-02-04 09:58
+FC-1003,2026-01-29,Fyn Catering ApS,893.53,DKK,jonas.h,2026-01-29 11:27
+NS-1013,2026-06-25,Nordic Supplies ApS,10217.54,DKK,lars.p,2026-06-25 09:38
+AM-1052,2026-01-29,Aarhus Marketing Group,9029.45,DKK,jonas.h,2026-01-29 13:15
+VIT-1028,2026-03-19,Vestergaard IT A/S,20700.17,DKK,lars.p,2026-03-19 09:56
+OK-1018,2026-06-03,Ørsted Kontorartikler,2298.58,DKK,jonas.h,2026-06-03 11:49
+NS-1036,2026-06-24,Nordic Supplies APS,14315.45,DKK,lars.p,2026-06-24 15:02
+NS-1028,2026-02-12,Nordic Supplies ApS,2716.17,DKK,mette.j,2026-02-12 16:49
+NS-1038,2026-06-05,Nordic Supplies APS,14267.27,DKK,jonas.h,2026-06-05 10:43
+FC-1018,2026-04-16,Fyn Catering ApS,2437.83,DKK,mette.j,2026-04-16 13:43
+AM-1044,2026-06-10,Aarhus Marketing Group,8342.23,DKK,mette.j,2026-06-10 13:53
+KC-1002,2026-04-22,Kastrup Consulting,37038.03,DKK,sofie.k,2026-04-22 10:02
+OK-1005,2026-04-06,Ørsted Kontorartikler,1328.89,DKK,sofie.k,2026-04-06 15:35
+VIT-1018,2026-02-11,Vestergaard IT A/S,16079.81,DKK,mette.j,2026-02-11 08:32
+VIT-1021,2026-06-19,Vestergaard IT A/S,19342.68,DKK,sofie.k,2026-06-19 16:20
+FC-1014,2026-01-12,Fyn Catering ApS,2991.19,DKK,lars.p,2026-01-12 15:58
+AM-1012,2026-03-16,Aarhus Marketing Group,5446.11,DKK,mette.j,2026-03-16 11:19
+AM-1026,2026-06-16,Aarhus Marketing Group,8572.90,DKK,sofie.k,2026-06-16 11:18
+LL-1015,2026-04-09,Lyngby Logistik A/S,9325.77,DKK,jonas.h,2026-04-09 12:48
+FC-1012,2026-04-27,Fyn Catering ApS,2138.28,DKK,sofie.k,2026-04-27 08:03
+FC-1034,2026-04-09,Fyn Catering ApS,2985.41,DKK,jonas.h,2026-04-09 16:33
+BB-1027,2026-01-27,Bruun & Berg Advokater,24056.94,DKK,lars.p,2026-01-27 09:28
+NS-1011,2026-03-02,Nordic Supplies ApS,14785.71,DKK,sofie.k,2026-03-02 09:24
+KC-1007,2026-04-17,Kastrup Consulting,45511.05,DKK,lars.p,2026-04-17 11:17
+AM-1020,2026-06-11,Aarhus Marketing Group,19124.70,DKK,sofie.k,2026-06-11 09:49
+KC-1021,2026-06-08,Kastrup Consulting,42252.49,DKK,mette.j,2026-06-08 12:25
+AM-1004,2026-03-12,Aarhus Marketing Group,19788.57,DKK,lars.p,2026-03-12 15:57
+ME-1027,2026-02-26,Møller Ejendomme A/S,33324.80,DKK,sofie.k,2026-02-26 16:07
+CD-1026,2026-02-25,CloudDane Hosting,1915.05,DKK,sofie.k,2026-02-25 08:03
+CD-1024,2026-01-27,CloudDane Hosting,8614.33,DKK,sofie.k,2026-01-27 13:34
+NS-1037,2026-06-16,Nordic Supplies APS,1474.88,DKK,jonas.h,2026-06-16 13:23
+NS-1032,2026-05-22,Nordic Supplies ApS,2361.68,DKK,jonas.h,2026-05-22 10:16
+CD-1018,2026-04-30,CloudDane Hosting,6251.69,DKK,jonas.h,2026-04-30 12:41
+FC-1031,2026-06-24,Fyn Catering ApS,644.68,DKK,sofie.k,2026-06-24 11:28
+CD-1021,2026-06-22,CloudDane Hosting,4738.42,DKK,lars.p,2026-06-22 16:26
+ME-1003,2026-01-29,Møller Ejendomme A/S,33772.12,DKK,jonas.h,2026-01-29 15:45
+KC-1022,2026-02-24,Kastrup Consulting,21713.12,DKK,sofie.k,2026-02-24 14:50
+KC-1041,2026-05-12,Kastrup Consulting,15000.00,DKK,lars.p,2026-05-12 11:07
+AM-1035,2026-05-04,Aarhus Marketing Group,8618.27,DKK,jonas.h,2026-05-04 16:26
+LL-1027,2026-05-07,Lyngby Logistik A/S,941.70,DKK,sofie.k,2026-05-07 09:27
+CD-1004,2026-05-26,CloudDane Hosting,3340.95,DKK,jonas.h,2026-05-26 08:58
+VIT-1039,2026-04-19,Vestergaard IT A/S,9990.00,DKK,jonas.h,2026-04-19 10:30
+ME-1004,2026-01-22,Møller Ejendomme A/S,20719.16,DKK,lars.p,2026-01-22 13:38
+ME-1007,2026-04-22,Møller Ejendomme A/S,36705.39,DKK,mette.j,2026-04-22 09:50
+AM-1005,2026-02-27,Aarhus Marketing Group,21283.03,DKK,sofie.k,2026-02-27 15:56
+ME-1012,2026-01-23,Møller Ejendomme A/S,20483.93,DKK,mette.j,2026-01-23 09:27
+CD-1009,2026-02-04,CloudDane Hosting,3748.41,DKK,sofie.k,2026-02-04 16:56
+VIT-1024,2026-01-20,Vestergaard IT A/S,28012.51,DKK,mette.j,2026-01-20 08:29
+FC-1026,2026-02-17,Fyn Catering ApS,2430.55,DKK,jonas.h,2026-02-17 11:21
+OK-1010,2026-02-20,Ørsted Kontorartikler,3924.97,DKK,sofie.k,2026-02-20 12:14
+FC-1024,2026-03-27,Fyn Catering ApS,4003.56,DKK,mette.j,2026-03-27 10:42
+VIT-1030,2026-02-24,Vestergaard IT A/S,9889.18,DKK,sofie.k,2026-02-24 13:13
+AM-1011,2026-02-26,Aarhus Marketing Group,3418.09,DKK,jonas.h,2026-02-26 10:35
+KC-1040,2026-02-11,Kastrup Consulting,10000.00,DKK,sofie.k,2026-02-11 10:50
+ME-1015,2026-04-20,Møller Ejendomme A/S,33199.92,DKK,sofie.k,2026-04-20 08:18
+VIT-1034,2026-04-21,Vestergaard IT A/S,17447.05,DKK,mette.j,2026-04-21 16:00
+BB-1011,2026-03-17,Bruun & Berg Advokater,26439.89,DKK,sofie.k,2026-03-17 16:45
+AM-1002,2026-05-05,Aarhus Marketing Group,4147.96,DKK,mette.j,2026-05-05 13:35
+OK-1032,2026-06-23,Ørsted Kontorartikler,1031.36,DKK,sofie.k,2026-06-23 08:48
+BB-1008,2026-04-24,Bruun & Berg Advokater,42323.89,DKK,mette.j,2026-04-24 15:07
+BB-1018,2026-03-02,Bruun & Berg Advokater,29156.51,DKK,sofie.k,2026-03-02 14:02
+CD-1022,2026-06-18,CloudDane Hosting,8106.23,DKK,jonas.h,2026-06-18 09:53
+AM-1019,2026-04-03,Aarhus Marketing Group,19440.97,DKK,lars.p,2026-04-03 09:22
+AM-1008,2026-01-27,Aarhus Marketing Group,10011.07,DKK,lars.p,2026-01-27 13:50
+KC-1023,2026-06-23,Kastrup Consulting,30574.35,DKK,jonas.h,2026-06-23 11:32
+OK-1007,2026-03-02,Ørsted Kontorartikler,1193.03,DKK,lars.p,2026-03-02 09:46
+ME-1033,2026-01-12,Møller Ejendomme A/S,49885.28,DKK,jonas.h,2026-01-12 14:01
+AM-1051,2026-03-31,Aarhus Marketing Group,9467.67,DKK,sofie.k,2026-03-31 14:08
+LL-1019,2026-01-07,Lyngby Logistik A/S,11435.65,DKK,lars.p,2026-01-07 10:15
+VIT-1011,2026-01-21,Vestergaard IT A/S,14953.59,DKK,mette.j,2026-01-21 15:51
+KC-1013,2026-03-09,Kastrup Consulting,53237.11,DKK,sofie.k,2026-03-09 10:37
+KC-1029,2026-01-29,Kastrup Consulting,54096.29,DKK,lars.p,2026-01-29 14:14
+OK-1002,2026-05-07,Ørsted Kontorartikler,2922.29,DKK,lars.p,2026-05-07 16:48
+LL-1024,2026-06-11,Lyngby Logistik A/S,1651.16,DKK,sofie.k,2026-06-11 11:06
+FC-1009,2026-05-26,Fyn Catering ApS,4214.35,DKK,sofie.k,2026-05-26 13:55
+FC-1021,2026-06-19,Fyn Catering ApS,4452.91,DKK,mette.j,2026-06-19 10:21
+AM-1015,2026-03-17,Aarhus Marketing Group,18807.98,DKK,sofie.k,2026-03-17 14:00
+VIT-1020,2026-05-27,Vestergaard IT A/S,13305.72,DKK,mette.j,2026-05-27 11:37
+LL-1034,2026-03-09,Lyngby Logistik A/S,4774.04,DKK,sofie.k,2026-03-09 13:17
+VIT-1002,2026-06-12,Vestergaard IT A/S,2201.34,DKK,mette.j,2026-06-12 08:14
+KC-1037,2026-04-27,Kastrup Consulting,15000.00,DKK,jonas.h,2026-04-27 10:57
+NS-1016,2026-03-23,Nordic Supplies ApS,3821.20,DKK,mette.j,2026-03-23 14:17
+BB-1020,2026-02-03,Bruun & Berg Advokater,26327.16,DKK,sofie.k,2026-02-03 16:37
+FC-1010,2026-01-19,Fyn Catering ApS,1245.36,DKK,sofie.k,2026-01-19 15:28
+CD-1017,2026-06-09,CloudDane Hosting,4877.52,DKK,lars.p,2026-06-09 16:20
+CD-1023,2026-04-06,CloudDane Hosting,6002.09,DKK,jonas.h,2026-04-06 11:28
+LL-1022,2026-01-29,Lyngby Logistik A/S,11604.87,DKK,sofie.k,2026-01-29 08:59
+ME-1001,2026-01-13,Møller Ejendomme A/S,52980.38,DKK,jonas.h,2026-01-13 16:19
+OK-1024,2026-04-28,Ørsted Kontorartikler,2871.78,DKK,lars.p,2026-04-28 09:43
+BB-1032,2026-04-29,Bruun & Berg Advokater,16590.97,DKK,mette.j,2026-04-29 12:42
+LL-1030,2026-06-02,Lyngby Logistik A/S,6006.59,DKK,lars.p,2026-06-02 12:20
+LL-1004,2026-02-10,Lyngby Logistik A/S,3390.13,DKK,jonas.h,2026-02-10 11:04
+VIT-1019,2026-01-19,Vestergaard IT A/S,25837.59,DKK,lars.p,2026-01-19 09:43
+BB-1010,2026-04-30,Bruun & Berg Advokater,28433.30,DKK,lars.p,2026-04-30 09:41
+CD-1011,2026-03-18,CloudDane Hosting,8745.60,DKK,mette.j,2026-03-18 13:51
+KC-1010,2026-01-08,Kastrup Consulting,24231.21,DKK,sofie.k,2026-01-08 11:25
+AM-1042,2026-03-13,Aarhus Marketing Group,8500.96,DKK,sofie.k,2026-03-13 10:40
+AM-1037,2026-06-25,Aarhus Marketing Group,8899.50,DKK,lars.p,2026-06-25 16:22
+CD-1025,2026-03-13,CloudDane Hosting,1672.29,DKK,jonas.h,2026-03-13 11:07
+NS-1010,2026-01-13,Nordic Supplies ApS,10716.29,DKK,sofie.k,2026-01-13 11:49
+AM-1036,2026-01-20,Aarhus Marketing Group,9645.86,DKK,mette.j,2026-01-20 10:20
+FC-1008,2026-06-11,Fyn Catering ApS,1392.02,DKK,jonas.h,2026-06-11 15:29
+NS-1017,2026-05-27,Nordic Supplies ApS,3559.25,DKK,jonas.h,2026-05-27 13:13
+LL-1026,2026-04-21,Lyngby Logistik A/S,4688.68,DKK,sofie.k,2026-04-21 13:04
+KC-1008,2026-01-29,Kastrup Consulting,48305.60,DKK,mette.j,2026-01-29 14:55
+BB-1028,2026-01-09,Bruun & Berg Advokater,33678.04,DKK,mette.j,2026-01-09 08:20
+KC-1020,2026-02-20,Kastrup Consulting,35492.69,DKK,jonas.h,2026-02-20 14:42
+ME-1011,2026-04-07,Møller Ejendomme A/S,42608.99,DKK,jonas.h,2026-04-07 10:43
+AM-1027,2026-01-14,Aarhus Marketing Group,21967.05,DKK,mette.j,2026-01-14 13:17
+LL-1018,2026-06-17,Lyngby Logistik A/S,9549.81,DKK,mette.j,2026-06-17 08:48
+AM-1033,2026-06-05,Aarhus Marketing Group,17540.22,DKK,jonas.h,2026-06-05 14:10
+FC-1029,2026-06-09,Fyn Catering ApS,4106.80,DKK,jonas.h,2026-06-09 10:38
+NS-1014,2026-03-05,Nordic Supplies ApS,8245.03,DKK,jonas.h,2026-03-05 10:29
+VIT-1040,2026-04-23,Vestergaard IT A/S,9875.00,DKK,jonas.h,2026-04-23 10:30
+CD-1013,2026-06-23,CloudDane Hosting,7909.10,DKK,sofie.k,2026-06-23 14:54
+VIT-1023,2026-06-16,Vestergaard IT A/S,5664.59,DKK,sofie.k,2026-06-16 12:29
+BB-1003,2026-05-22,Bruun & Berg Advokater,38101.94,DKK,mette.j,2026-05-22 08:29
+BB-1022,2026-04-16,Bruun & Berg Advokater,8567.86,DKK,jonas.h,2026-04-16 10:04
+NS-1009,2026-03-18,Nordic Supplies ApS,1642.60,DKK,lars.p,2026-03-18 13:36
+ME-1009,2026-04-17,Møller Ejendomme A/S,33912.59,DKK,jonas.h,2026-04-17 13:52
+AM-1025,2026-05-13,Aarhus Marketing Group,9943.11,DKK,jonas.h,2026-05-13 14:52
+ME-1016,2026-05-29,Møller Ejendomme A/S,31010.91,DKK,lars.p,2026-05-29 16:13
+FC-1004,2026-04-13,Fyn Catering ApS,3334.19,DKK,sofie.k,2026-04-13 12:47
+ME-1035,2026-04-13,Moeller Ejendomme A/S,39235.11,DKK,sofie.k,2026-04-13 13:41
+ME-1025,2026-06-09,Møller Ejendomme A/S,23756.46,DKK,mette.j,2026-06-09 08:43
+BB-1006,2026-05-14,Bruun & Berg Advokater,10005.55,DKK,jonas.h,2026-05-14 13:39
+OK-1021,2026-01-22,Ørsted Kontorartikler,1168.89,DKK,lars.p,2026-01-22 10:15
+AM-1014,2026-06-03,Aarhus Marketing Group,21407.13,DKK,lars.p,2026-06-03 16:01
+KC-1016,2026-04-23,Kastrup Consulting,19009.74,DKK,lars.p,2026-04-23 08:33
+OK-1031,2026-06-05,Ørsted Kontorartikler,2977.96,DKK,mette.j,2026-06-05 12:01
+AM-1039,2026-01-16,Aarhus Marketing Group,8864.80,DKK,lars.p,2026-01-16 09:33
+KC-1004,2026-04-02,Kastrup Consulting,41681.34,DKK,jonas.h,2026-04-02 16:56
+FC-1035,2026-05-02,Fyn Catering ApS,1850.00,DKK,sofie.k,2026-05-02 22:30
+KC-1009,2026-02-27,Kastrup Consulting,52222.63,DKK,jonas.h,2026-02-27 11:52
+CD-1033,2026-02-03,CloudDane Hosting,3269.87,DKK,mette.j,2026-02-03 14:33
+ME-1031,2026-04-22,Møller Ejendomme A/S,28709.54,DKK,jonas.h,2026-04-22 10:08
+ME-1008,2026-06-17,Møller Ejendomme A/S,49553.33,DKK,lars.p,2026-06-17 16:46
+BB-1004,2026-03-25,Bruun & Berg Advokater,19637.13,DKK,jonas.h,2026-03-25 09:49
+KC-1003,2026-01-12,Kastrup Consulting,25055.83,DKK,lars.p,2026-01-12 13:13
+NS-1020,2026-04-14,Nordic Supplies ApS,13518.43,DKK,lars.p,2026-04-14 13:14
+AM-1029,2026-04-10,Aarhus Marketing Group,22682.02,DKK,jonas.h,2026-04-10 13:11
+NS-1021,2026-01-14,Nordic Supplies ApS,7888.13,DKK,lars.p,2026-01-14 09:09
+ME-1022,2026-01-09,Møller Ejendomme A/S,20574.66,DKK,lars.p,2026-01-09 09:47
+AM-1028,2026-04-23,Aarhus Marketing Group,20585.53,DKK,jonas.h,2026-04-23 14:47
+ME-1026,2026-04-20,Møller Ejendomme A/S,28067.81,DKK,jonas.h,2026-04-20 15:38
+KC-1034,2026-04-27,Kastrup Consulting,54346.45,DKK,lars.p,2026-04-27 12:48
+KC-1006,2026-02-16,Kastrup Consulting,58691.33,DKK,lars.p,2026-02-16 14:01
+AM-1030,2026-04-06,Aarhus Marketing Group,18225.51,DKK,mette.j,2026-04-06 16:17
+FC-1017,2026-04-24,Fyn Catering ApS,619.20,DKK,lars.p,2026-04-24 15:33
+BB-1007,2026-01-15,Bruun & Berg Advokater,31140.12,DKK,lars.p,2026-01-15 11:17
+BB-1025,2026-05-06,Bruun & Berg Advokater,31191.57,DKK,mette.j,2026-05-06 16:02
+VIT-1036,2026-04-07,Vestergaard IT A/S,9850.00,DKK,jonas.h,2026-04-07 10:30
+AM-1047,2026-06-11,Aarhus Marketing Group,8995.58,DKK,sofie.k,2026-06-11 16:18
+VIT-1032,2026-01-13,Vestergaard IT A/S,25221.75,DKK,lars.p,2026-01-13 08:21
+VIT-1027,2026-05-21,Vestergaard IT A/S,6416.91,DKK,mette.j,2026-05-21 12:39
+AM-1010,2026-06-08,Aarhus Marketing Group,19694.51,DKK,mette.j,2026-06-08 08:57
+OK-1011,2026-01-05,Ørsted Kontorartikler,840.85,DKK,sofie.k,2026-01-05 16:08
+FC-1013,2026-01-21,Fyn Catering ApS,5057.50,DKK,jonas.h,2026-01-21 09:39
+AM-1050,2026-03-30,Aarhus Marketing Group,8928.42,DKK,sofie.k,2026-03-30 10:20
+KC-1042,2026-02-06,Kastrup Consulting,20000.00,DKK,jonas.h,2026-02-06 11:50
+BB-1031,2026-04-09,Bruun & Berg Advokater,10921.83,DKK,lars.p,2026-04-09 11:31
+VIT-1004,2026-05-06,Vestergaard IT A/S,9797.36,DKK,lars.p,2026-05-06 11:34
+OK-1015,2026-05-04,Ørsted Kontorartikler,3867.17,DKK,mette.j,2026-05-04 09:52
+FC-1015,2026-02-09,Fyn Catering ApS,2200.55,DKK,mette.j,2026-02-09 08:28
+BB-1019,2026-04-09,Bruun & Berg Advokater,35554.09,DKK,lars.p,2026-04-09 14:42
+KC-1032,2026-05-25,Kastrup Consulting,41716.78,DKK,jonas.h,2026-05-25 13:48
+FC-1019,2026-06-16,Fyn Catering ApS,4819.67,DKK,sofie.k,2026-06-16 13:04
+FC-1023,2026-01-23,Fyn Catering ApS,1122.13,DKK,jonas.h,2026-01-23 12:35
+NS-1027,2026-01-29,Nordic Supplies ApS,7861.38,DKK,lars.p,2026-01-29 12:53
+CD-1005,2026-03-16,CloudDane Hosting,7696.14,DKK,sofie.k,2026-03-16 11:38
+NS-1024,2026-06-25,Nordic Supplies ApS,10364.11,DKK,sofie.k,2026-06-25 16:48
+NS-1039,2026-04-07,Nordic Supplies APS,14257.94,DKK,mette.j,2026-04-07 15:48
+CD-1006,2026-02-19,CloudDane Hosting,2908.24,DKK,lars.p,2026-02-19 12:43
+BB-1021,2026-04-24,Bruun & Berg Advokater,40178.91,DKK,jonas.h,2026-04-24 09:33
+OK-1003,2026-06-16,Ørsted Kontorartikler,2808.85,DKK,mette.j,2026-06-16 15:28
+KC-1001,2026-02-09,Kastrup Consulting,9138.41,DKK,sofie.k,2026-02-09 16:02
+CD-1020,2026-03-03,CloudDane Hosting,2105.74,DKK,jonas.h,2026-03-03 16:08
+VIT-1022,2026-03-23,Vestergaard IT A/S,7719.26,DKK,jonas.h,2026-03-23 11:16
+NS-1005,2026-02-11,Nordic Supplies ApS,7013.53,DKK,sofie.k,2026-02-11 14:21
+FC-1006,2026-02-20,Fyn Catering ApS,3371.39,DKK,lars.p,2026-02-20 13:22
+OK-1014,2026-05-04,Ørsted Kontorartikler,2360.15,DKK,lars.p,2026-05-04 15:21
+ME-1006,2026-06-03,Møller Ejendomme A/S,32093.46,DKK,jonas.h,2026-06-03 16:18
+AM-1032,2026-03-25,Aarhus Marketing Group,15000.44,DKK,sofie.k,2026-03-25 09:05
+AM-1003,2026-05-14,Aarhus Marketing Group,18650.82,DKK,mette.j,2026-05-14 09:18
+ME-1019,2026-06-10,Møller Ejendomme A/S,49270.74,DKK,sofie.k,2026-06-10 16:01
+OK-1012,2026-01-15,Ørsted Kontorartikler,325.24,DKK,lars.p,2026-01-15 16:18
+AM-1046,2026-05-28,Aarhus Marketing Group,9301.61,DKK,mette.j,2026-05-28 14:39
+NS-1025,2026-03-30,Nordic Supplies ApS,11644.68,DKK,jonas.h,2026-03-30 09:18
+BB-1014,2026-03-13,Bruun & Berg Advokater,39969.00,DKK,sofie.k,2026-03-13 14:21
+FC-1030,2026-02-17,Fyn Catering ApS,1263.82,DKK,jonas.h,2026-02-17 10:46
+LL-1012,2026-01-08,Lyngby Logistik A/S,7429.20,DKK,jonas.h,2026-01-08 09:41
+LL-1025,2026-06-04,Lyngby Logistik A/S,10323.28,DKK,mette.j,2026-06-04 09:50
+CD-1034,2026-05-13,CloudDane Hosting,7016.19,DKK,lars.p,2026-05-13 09:28
+ME-1024,2026-03-26,Møller Ejendomme A/S,29530.58,DKK,mette.j,2026-03-26 09:56
+CD-1001,2026-04-28,CloudDane Hosting,6584.45,DKK,jonas.h,2026-04-28 12:12
+VIT-1013,2026-05-06,Vestergaard IT A/S,6656.71,DKK,jonas.h,2026-05-06 15:13
+NS-1012,2026-02-12,Nordic Supplies ApS,7074.45,DKK,lars.p,2026-02-12 13:22
+ME-1020,2026-03-12,Møller Ejendomme A/S,19071.27,DKK,sofie.k,2026-03-12 12:58
+OK-1025,2026-06-11,Ørsted Kontorartikler,3707.06,DKK,mette.j,2026-06-11 11:27
+BB-1036,2026-02-08,Bruun & Berg Advokater,22000.00,DKK,jonas.h,2026-02-08 23:05
+ME-1005,2026-03-13,Møller Ejendomme A/S,20430.24,DKK,sofie.k,2026-03-13 16:45
+ME-1029,2026-04-13,Møller Ejendomme A/S,19680.44,DKK,lars.p,2026-04-13 08:00
+ME-1021,2026-02-17,Møller Ejendomme A/S,30987.87,DKK,jonas.h,2026-02-17 10:36
+AM-1040,2026-02-12,Aarhus Marketing Group,8607.94,DKK,lars.p,2026-02-12 13:59
+KC-1030,2026-06-29,Kastrup Consulting,49226.04,DKK,mette.j,2026-06-29 16:29
+OK-1028,2026-05-27,Ørsted Kontorartikler,2440.92,DKK,mette.j,2026-05-27 12:28
+FC-1027,2026-02-06,Fyn Catering ApS,1475.23,DKK,sofie.k,2026-02-06 10:04
+BB-1001,2026-03-25,Bruun & Berg Advokater,20874.56,DKK,lars.p,2026-03-25 09:54
+KC-1014,2026-06-03,Kastrup Consulting,7104.15,DKK,sofie.k,2026-06-03 14:22
+LL-1029,2026-06-17,Lyngby Logistik A/S,9018.51,DKK,jonas.h,2026-06-17 12:39
+CD-1014,2026-04-13,CloudDane Hosting,1904.36,DKK,mette.j,2026-04-13 08:16
+AM-1013,2026-06-10,Aarhus Marketing Group,4050.49,DKK,mette.j,2026-06-10 15:04
+BB-1030,2026-05-26,Bruun & Berg Advokater,27653.15,DKK,lars.p,2026-05-26 10:10
+OK-1016,2026-01-20,Ørsted Kontorartikler,1692.72,DKK,lars.p,2026-01-20 08:09
+NS-1026,2026-01-02,Nordic Supplies ApS,2793.29,DKK,lars.p,2026-01-02 12:32
+VIT-1016,2026-03-18,Vestergaard IT A/S,6334.31,DKK,mette.j,2026-03-18 11:03
+KC-1005,2026-02-10,Kastrup Consulting,58561.04,DKK,lars.p,2026-02-10 11:55
+LL-1028,2026-04-29,Lyngby Logistik A/S,7918.55,DKK,lars.p,2026-04-29 10:27
+CD-1030,2026-05-20,CloudDane Hosting,8902.71,DKK,lars.p,2026-05-20 12:51
+OK-1004,2026-02-27,Ørsted Kontorartikler,508.26,DKK,lars.p,2026-02-27 14:44
+VIT-1029,2026-01-29,Vestergaard IT A/S,9405.05,DKK,sofie.k,2026-01-29 16:09
